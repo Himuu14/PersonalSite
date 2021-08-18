@@ -1,1 +1,2 @@
-# PersonalSite
+Personal Site 
+Created Simple Website using HTML only to learn how to host and add repository in Github...
